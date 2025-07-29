@@ -28,10 +28,9 @@ int main() { //abertura Principal
     char estado1[20], estado2[20];
     char codigo1[10], codigo2[10];
     char nome1[20], nome2[20];
-    int populacao1, populacao2;
+    int populacao1, populacao2, numero1, numero2;
     float area1, area2;
     float pib1, pib2;
-    int numero1, numero2;
 
     printf("Dados da Carta 01\n\n"); //cabeçalho carta 01
 
